@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on my personal project
+- 🌱 I'm a mechanical engineer eager to learn new stuff
 
 <!--
 **treyn84/treyn84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
